@@ -1,3 +1,3 @@
-# access-ip
+# Registered IP
 
-LICENSE VERIFICATION
+License Verification Validator
